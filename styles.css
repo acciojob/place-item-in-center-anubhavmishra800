@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.holder{
+	position:absolute;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100%;
+	width:100%;
+	
+}
